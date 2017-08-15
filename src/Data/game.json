@@ -4,24 +4,28 @@
     "user_id" : null,
     "avatar" : "none",
     "money" : 0,
-    "properties" : []
+    "properties" : [],
+    "position": 0
   },
   "player_2" : {
     "user_id" : null,
     "avatar" : "none",
     "money" : 0,
-    "properties" : []
+    "properties" : [],
+    "position": 0
   },
   "player_3" : {
     "user_id" : null,
     "avatar" : "none",
     "money" : 0,
-    "properties" : []
+    "properties" : [],
+    "position": 0
   },
   "player_4" : {
     "user_id" : null,
     "avatar" : "none",
     "money" : 0,
-    "properties" : []
+    "properties" : [],
+    "position": 0
   }
 }
