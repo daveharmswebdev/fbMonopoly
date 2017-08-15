@@ -6,4 +6,5 @@ export interface IAppState {
   users: IUser[];
   filteredUsers: IUser[];
   games: IGame[];
+  currentUser: string;
 }

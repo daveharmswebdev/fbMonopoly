@@ -5,4 +5,4 @@ import { Component } from '@angular/core';
   <h1>Game</h1>
   `
 })
-export class GameComponent { }
+export class GameComponent {}

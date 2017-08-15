@@ -4,5 +4,13 @@
 // The list of which env maps to which file can be found in `.angular-cli.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebase: {
+    apiKey: 'AIzaSyCn52PGnU9BUygoF2357xHDoSM9Xd9bBzM',
+    authDomain: 'monopoly-dev.firebaseapp.com',
+    databaseURL: 'https://monopoly-dev.firebaseio.com',
+    projectId: 'monopoly-dev',
+    storageBucket: '',
+    messagingSenderId: '319127352528'
+  }
 };

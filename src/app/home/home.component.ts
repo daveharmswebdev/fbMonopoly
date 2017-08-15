@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { NgRedux, select } from '@angular-redux/store';
 import { Observable } from 'rxjs/Observable';
 
-import { store, filterUsers, IAppState } from '../store/';
+import { IAppState } from '../store/';
 import { IUser } from '../user/user.model';
 
 
